@@ -19,6 +19,7 @@
   My practice
   
     (+) Good for production
+    (+) Many good pretrained models
     (+) Uses little memory for training
     (+) The resulting models are qualitative and are used as pretrained models in other frameworks
     (+) Works fastest for embedded systems. Maybe can run faster but need to research and compare with lib TVM vs NCNN.
