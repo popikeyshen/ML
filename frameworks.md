@@ -18,6 +18,7 @@
     
   My practice
   
+    (+) Good for production
     (+) Uses little memory for training
     (+) The resulting models are qualitative and are used as pretrained models in other frameworks
     (+) Works fastest for embedded systems. Maybe can run faster but need to research and compare with lib TVM vs NCNN.
@@ -41,4 +42,8 @@
     (-) Drops out to Python to load each new training batch
     (-) Not very toolable
     (-) Dynamic typing is error-prone on large software projects
+    
+   My practice
+   
+    (+) Can fast train an test model with little dataset but it will slow working - good for prototyping
 
