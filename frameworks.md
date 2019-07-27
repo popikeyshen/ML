@@ -17,6 +17,7 @@
     (-) Probably dying; slow development
     
   My practice
+  
     (+) Uses little memory for training
     (+) The resulting models are qualitative and are used as pretrained models in other frameworks
     
