@@ -69,3 +69,6 @@
 
      (+) Deeplearning4j and professor rosenbrock use it - need to test
 
+### [DL4J](https://deeplearning4j.org/)
+
+    (+) Easily scalable and suitable for large companies that use java
