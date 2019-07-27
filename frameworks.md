@@ -63,4 +63,9 @@
      My practice
      
      (+) Caffe2 is in the pytorch - need to test and work
+     
+
+### MxNet
+
+     (+) Deeplearning4j and professor rosenbrock use it - need to test
 
