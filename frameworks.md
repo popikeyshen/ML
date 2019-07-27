@@ -21,6 +21,6 @@
     (+) Uses little memory for training
     (+) The resulting models are qualitative and are used as pretrained models in other frameworks
     
-    https://skymind.ai/wiki/comparison-frameworks-dl4j-tensorflow-pytorch
+    
 
 ### Tensorflow
