@@ -49,7 +49,7 @@
     (+) Can fast train an test model with little dataset but it will slow working - good for prototyping
 
 
-### PyTorch
+### [PyTorch](https://github.com/pytorch/pytorch/)
 
 [ Pros and Cons:](https://skymind.ai/wiki/comparison-frameworks-dl4j-tensorflow-pytorch)
 
