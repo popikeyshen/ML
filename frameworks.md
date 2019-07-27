@@ -48,3 +48,19 @@
    
     (+) Can fast train an test model with little dataset but it will slow working - good for prototyping
 
+
+### PyTorch
+
+[ Pros and Cons:](https://skymind.ai/wiki/comparison-frameworks-dl4j-tensorflow-pytorch)
+
+    (+) Lots of modular pieces that are easy to combine
+    (+) Easy to write your own layer types and run on GPU
+    (+) Lots of pretrained models
+    (-) You usually write your own training code (Less plug and play)
+    (-) No commercial support
+    (-) Spotty documentation
+    
+     My practice
+     
+     (+) Caffe2 is in the pytorch - need to test and work
+
