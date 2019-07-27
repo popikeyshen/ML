@@ -1,4 +1,4 @@
-###Caffe
+### Caffe
 
   Both Deeplearning4j and Caffe perform image classification with convolutional nets, which represent the state of the art.
   Caffe is not intended for other deep-learning applications such as text, sound or time series data.
