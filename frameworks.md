@@ -25,3 +25,20 @@
     
 
 ### Tensorflow
+
+  Pros and Cons
+
+    (+) Python + Numpy
+    (+) Computational graph abstraction, like Theano
+    (+) Faster compile times than Theano
+    (+) TensorBoard for visualization
+    (+) Data and model parallelism
+    (-) Slower than other frameworks
+    (-) Much “fatter” than Torch; more magic
+    (-) Not many pretrained models
+    (-) Computational graph is pure Python, therefore slow
+    (-) No commercial support
+    (-) Drops out to Python to load each new training batch
+    (-) Not very toolable
+    (-) Dynamic typing is error-prone on large software projects
+
