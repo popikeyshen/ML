@@ -1,4 +1,4 @@
-### Caffe
+### [Caffe](https://github.com/BVLC/caffe)
 
   Both Deeplearning4j and Caffe perform image classification with convolutional nets, which represent the state of the art.
   Caffe is not intended for other deep-learning applications such as text, sound or time series data.
@@ -26,7 +26,7 @@
     
     
 
-### Tensorflow
+### [Tensorflow](https://www.tensorflow.org/)
 
   [ Pros and Cons:](https://skymind.ai/wiki/comparison-frameworks-dl4j-tensorflow-pytorch)
 
@@ -65,7 +65,7 @@
      (+) Caffe2 is in the pytorch - need to test and work
      
 
-### MxNet
+### [MxNet](https://mxnet.apache.org/)
 
      (+) Deeplearning4j and professor rosenbrock use it - need to test
 
