@@ -20,7 +20,7 @@
   
     (+) Uses little memory for training
     (+) The resulting models are qualitative and are used as pretrained models in other frameworks
-    (+) Fastest for embedded systems
+    (+) Works fastest for embedded systems
     
     
 
