@@ -67,7 +67,7 @@
 
 ### [MxNet](https://mxnet.apache.org/)
 
-     (+) Deeplearning4j and professor rosenbrock use it - need to test
+     (+) Deeplearning4j and professor Rosebrock use it - need to test
 
 ### [DL4J](https://deeplearning4j.org/)
 
