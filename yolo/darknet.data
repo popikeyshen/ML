@@ -1,0 +1,9 @@
+classes = 80
+train  = list.txt
+
+valid  = test.txt
+valid2  = test2.txt
+
+names = 37.names
+backup = weights
+
