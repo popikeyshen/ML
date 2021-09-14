@@ -221,3 +221,8 @@ distill(mlp, smlp, train_loader, temperature=5.0, alpha=0.2)
 
 evaluate(smlp)
 
+
+### https://www.coursera.org/learn/machine-learning-design/
+
+
+

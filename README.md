@@ -6,3 +6,5 @@ Here i will stack some of my tools, code or links
 3. DFDC (mtcnn face detector to help others with challenge)
 4. Comparison of AI Frameworks [frameworks.md](https://github.com/popikeyshen/ML/blob/master/frameworks.md)
 
+Architektures:
+1. [https://habr.com/ru/company/mailru/blog/311706/]
