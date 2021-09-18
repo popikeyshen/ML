@@ -13,6 +13,8 @@ Architektures:
 4. [DenseNet](https://towardsdatascience.com/review-densenet-image-classification-b6631a8ef803)
 5. [ResidualNet](https://neurohive.io/ru/vidy-nejrosetej/resnet-34-50-101/)
 
+Tracking:
+1. [Yolo Deepsort](https://habr.com/ru/post/514450/)
 
 What to add:
 1. recurrent NN
