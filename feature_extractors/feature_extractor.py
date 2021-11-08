@@ -3,7 +3,9 @@ from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
 from tensorflow.keras.models import Model
 import numpy as np
 
-# See https://keras.io/api/applications/ for details
+### LINKS
+# https://github.com/matsui528/sis   search engine engine
+# See https://keras.io/api/applications/ for neural network details
 
 vgg_linefeatrue = False
 resnet_blockfeature = True
